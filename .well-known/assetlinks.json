@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.anaktoba.passkey",
+      "sha256_cert_fingerprints": [
+        "2B:83:93:30:D9:7F:DA:01:06:A6:15:7E:57:88:B0:9A:D4:33:9E:44:B2:8B:1D:7B:66:4F:65:6E:96:DF:27:E6"
+      ]
+    }
+  }
+]
